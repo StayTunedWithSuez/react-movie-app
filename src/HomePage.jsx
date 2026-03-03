@@ -42,7 +42,7 @@ function HomePage() {
                     </section>
                 )}
 
-                <section className="mt-0 space-y-9">
+                <section className="-mt-9 space-y-9">
                     <h2 className="text-white font-semibold">All Movies</h2>
                     {isLoading ? <Spinner />
                     : errorMessage ? (
