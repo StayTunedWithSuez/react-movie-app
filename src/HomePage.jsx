@@ -1,4 +1,4 @@
-import Search from "./components/search";
+import Search from "./components/Search";
 import useMovies from "./hooks/useMovies";
 import MovieCard from "./components/MovieCard";
 import { useEffect, useState } from "react";
